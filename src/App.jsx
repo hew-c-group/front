@@ -10,10 +10,10 @@ function App() {
 
 <Typography
 sx={{
-  padding:"2px",fontSize:"162px"
+  padding:"2px",fontSize:"#333"
 }}
 >
-あああ
+Header
 </Typography>
 
     </>
